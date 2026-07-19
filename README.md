@@ -6,6 +6,4 @@ I build systems where AI agents do real work — and a human keeps the only irre
 
 Recent things the fleet did without me: reviewed and shipped its own UI redesign end to end, audited every screen of its dashboard with a vision model, and started publishing a daily brief of its own work — deliverables, failures, and spend, every line traceable to a real run.
 
-**Also built:** DueMate (SaaS) · GlassLedger
-
 🌐 [sajidpalagiri.com](https://sajidpalagiri.com) · Hyderabad, India
